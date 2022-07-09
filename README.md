@@ -3,7 +3,7 @@
 ## Create virtual environment for tests execution
 ```bash
 cd hello_rf
-python3 -m venv venv && source venv/bin/activate
+python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 ```
 
