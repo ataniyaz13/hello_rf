@@ -1,3 +1,4 @@
-robotframework
-robotframework-databaselibrary
-pymssql
+pymssql==2.2.5
+pyspark==3.1.2
+robotframework==5.0.1
+robotframework-databaselibrary==1.2.4
