@@ -1,5 +1,6 @@
 # Environment setup
 
+
 ## Create virtual environment for tests execution
 ```bash
 Ubuntu:
