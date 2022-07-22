@@ -13,9 +13,6 @@ python -m venv venv && .\venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
-## Deploy and configure Data Quality solution
-Follow [instructions](../README.md)
-
 
 ## Run RF tests execution
 Start RF tests with `robot` 
